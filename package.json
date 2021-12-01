@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Phonebook backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo error"
+  },
+  "author": "robin",
+  "license": "MIT"
+}
