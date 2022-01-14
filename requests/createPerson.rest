@@ -6,4 +6,11 @@ Content-Type: application/json
     "number": "123-456789"
 }
 ###
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Empty number"
+}
+###
 GET  http://localhost:3001/api/persons
